@@ -1,2 +1,2 @@
-# A short Python script to print "hello"
+# Short Python script to print the word "hello"
 print("hello")
